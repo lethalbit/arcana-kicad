@@ -1,0 +1,35 @@
+{
+	"$schema": "https://go.kicad.org/pcm/schemas/v1",
+	"name": "Arcana",
+	"description": "A dark and vibrant color scheme by @lethalbit",
+	"description_full": "A dark and vibrant color scheme by @lethalbit",
+	"identifier": "net.lethalbit.arcana",
+	"type": "colortheme",
+	"author": {
+		"name": "Aki Van Ness",
+		"contact": {
+			"website": "https://lethalbit.net",
+			"github": "https://github.com/lethalbit",
+			"mastodon": "https://chaos.social/@lethalbit"
+		}
+	},
+	"maintainer": {
+		"name": "Aki Van Ness",
+		"contact": {
+			"website": "https://lethalbit.net",
+			"github": "https://github.com/lethalbit",
+			"mastodon": "https://chaos.social/@lethalbit"
+		}
+	},
+	"license": "CC-BY-NC-SA-4.0",
+	"resources": {
+		"github": "https://github.com/lethalbit/arcana-kicad"
+	},
+	"versions": [
+		{
+			"version": "2023.11.21",
+			"status": "stable",
+			"kicad_version": "7.0"
+		}
+	]
+}
